@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pl-pl">
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>NSS</title>
+</head>
+<body>
+<h1>Netz Service System</h1>
+<form>
+    <div>
+        <label>S/N Urządzenia:</label><br>
+        <input type="text" id="sn"><br><br>
+        <label>Część:</label><br>
+        <input type="radio" name="czesc" value="Dysk"id="czesc"> Dysk
+        <input type="radio" name="czesc" value="Zasilacz"> Zasilacz
+        <input type="radio" name="czesc" value="Matryca"> Matryca<br>
+        <input type="radio" name="czesc" value="Pamięć RAM"> Pamięć RAM
+        <input type="radio" name="czesc" value="Obudowa"> Obudowa
+        <input type="radio" name="czesc" value="Klawiatura"> Klawiatura<br>
+        <input type="radio" name="czesc" value="Zawiasy"> CHuj
+        <input type="radio" name="czesc" value="Moduł GSM"> Moduł GSM
+        <input type="radio" name="czesc" value="Moduł Bluetooth"> Moduł Bluetooth<br>
+        <label>Inne:</label><br>
+        <input type="text"><br><br>
+        <label>Procedura:</label>
+        <input type="radio" name="Wyjęcia">
+        <input type="radio" name="Włożenia">
+        <label>Dzień wykonania:</label><br>
+        <input type="date" id="data">
+    </div>
+    <br><br>
+    <!--<input type="submit" value="Zatwierdź">-->
+    <button onclick="moveData()">Zatweirdz</button>
+</form>
+<script src="script.js"></script>
+</body>
+</html>
