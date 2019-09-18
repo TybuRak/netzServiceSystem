@@ -1,0 +1,4 @@
+Numer Seryjny: SN5629
+Część: zasilacz
+Procedura: Wyjęcia
+Data wykonania: 2019-09-17

@@ -1,0 +1,3 @@
+Numer Seryjny: SN3333
+Część: Dysk
+Data wykonania: 2019-09-06

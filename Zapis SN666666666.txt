@@ -1,0 +1,4 @@
+Numer Seryjny: SN666666666
+Część: dysk
+Procedura: on
+Data wykonania: 2019-09-06

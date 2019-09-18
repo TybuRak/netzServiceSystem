@@ -1,0 +1,3 @@
+Numer Seryjny: CCC
+Część: dysk
+Data wykonania: 2019-09-27

@@ -11,7 +11,7 @@ app.on('ready', function(){
     //Create new window
     mainWindow = new BrowserWindow({
         width: 900,
-        height: 600,
+        height: 650,
         title: 'NSS - NetzServiceSystem',
         webPreferences: {webSecurity: false, nodeIntegration: true}
     });
@@ -21,7 +21,7 @@ app.on('ready', function(){
         protocol: 'file:',
         slashes: true
     }));
-    mainWindow.webContents.openDevTools();
+    //mainWindow.webContents.openDevTools();
     // Build menu from template
     const mainMenu = Menu.buildFromTemplate(mainMenuTemplate);
     // Insert menu

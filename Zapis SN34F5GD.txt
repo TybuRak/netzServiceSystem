@@ -1,0 +1,4 @@
+Numer Seryjny: SN34F5GD
+Część: pamiec RAM
+Procedura: Wyjęcia
+Data wykonania: 2019-09-26

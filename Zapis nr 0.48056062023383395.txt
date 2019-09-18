@@ -1,0 +1,3 @@
+Numer Seryjny: ASDF
+Część: [object NodeList]
+Data wykonania: 2019-09-28

@@ -1,4 +1,15 @@
-body{
-    background-color: #121212;
-    color: aliceblue;
+p{
+    display: inline;
+}
+.first{
+    width: 145px;
+    float: left;
+}
+.second{
+    width: 145px;
+    float: left;
+}
+.third{
+    width: 145px;
+    float: left;
 }
